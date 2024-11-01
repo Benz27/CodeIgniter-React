@@ -31,7 +31,7 @@ To set up the application, follow these steps:
 
 2. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Benz27/CodeIgniter-React.git
    cd codeigniter_exam
 3. **Install Dependencies**: Run the following command in your terminal:
    ```bash
