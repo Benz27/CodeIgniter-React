@@ -1,0 +1,42 @@
+.body-yanga {
+    /* background-image: url('../../assets/img/sch4.png'); */
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+.bg-yanga {
+    background-color: #162f65;
+}
+
+.card-login-panel {
+    background: rgb(247, 247, 247, 0.75);
+}
+
+.img-login {
+    max-width: 60px;
+    max-height: 60px;
+    margin: 0;
+    padding: 0;
+}
+
+.main-body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #1b1b1d !important;
+    /* background-color: #1b1b1d !important; */
+}
+
+.bg-login-image {
+    /* background: url(../../assets/img/learned_admin_bg.png) !important; */
+    background-position: center;
+    background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    height: auto;
+    width: 100%;
+
+}

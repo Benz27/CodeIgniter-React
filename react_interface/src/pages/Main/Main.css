@@ -1,0 +1,96 @@
+.main-body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.button-link {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    color: inherit;
+}
+
+.bg-blackgreen {
+    background: #111827;
+}
+
+.bg-epro-yellow {
+    background-color: #FFA700;
+}
+
+.bg-epro-dark-blue {
+    background-color: #1E2A78;
+}
+
+.brand-Pro {
+    color: #FFA700;
+}
+
+.epro-icon {
+    color: white;
+}
+
+.epro-accordion,
+.epro-icon {
+    transition: color 0.3s ease;
+}
+
+.epro-accordion:hover .epro-icon {
+    color: #c4c4c4;
+}
+
+.bg-pri {
+    background-color: #1c1c1e;
+}
+
+.bg-sec {
+    background-color: #272729;
+}
+
+.c-partner {
+    color: #269899;
+}
+
+.bg-partner {
+    /* background-color: #0f3d3d; */
+    background-color: #1b1b1d;
+}
+
+.bg-components {
+    background-color: #454545;
+}
+
+
+.logo {
+    /* src: url('../../assets/img/admin_logo.png'); */
+}
+
+.desc-limiter {
+
+    max-height: 100px;
+    width: auto;
+    word-wrap: break-word;
+    white-space: normal;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+}
+
+.bg-selected {
+    background-color: #c2e7ff;
+}
+
+.bg-clipped-move {
+    opacity: 0.6;
+}
+
+.text-non-select {
+    user-select: none;
+}
+
