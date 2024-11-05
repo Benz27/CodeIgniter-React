@@ -9,7 +9,7 @@ class AppController extends BaseController
 {
     public function index()
     {
-        return view('build/build.php');
+        return view('react/static_build.php');
 
     }
 }
